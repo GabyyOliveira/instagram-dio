@@ -1,4 +1,4 @@
-# Pagina Inicial do Instagram🙃
+# Pagina Inicial do Instagram 
 
 Esse projeto foi realizado para o bootcamp Dio, Impulso Javascript Evolution
 
